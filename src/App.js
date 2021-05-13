@@ -3,7 +3,7 @@ import React from "react";
 export default function App() {
   return (
     <div>
-      <h1>App Works!</h1>
+      <h1>React Boilerplate Works!</h1>
     </div>
   );
 }
